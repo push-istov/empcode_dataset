@@ -71,18 +71,3 @@ print('\t'+str(standingsdata['contest']))
 with open('./data/'+str(contest_line['id'])+'conteststandings.json', 'r', encoding='utf-8') as conteststandings:
         standingsdata = json.load(conteststandings)
 handlerows = standingsdata['rows']
-for row in handlerows:
-    
-
-
-
-
-
-
-
-
-    
-
-
-
-

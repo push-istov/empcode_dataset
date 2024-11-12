@@ -1,0 +1,36 @@
+{
+    "id": 288510200,
+    "contestId": 2026,
+    "creationTimeSeconds": 1730126155,
+    "relativeTimeSeconds": 55,
+    "problem": {
+        "contestId": 2026,
+        "index": "A",
+        "name": "Perpendicular Segments",
+        "type": "PROGRAMMING",
+        "rating": 900,
+        "tags": [
+            "constructive algorithms",
+            "geometry",
+            "greedy",
+            "math"
+        ]
+    },
+    "author": {
+        "contestId": 2026,
+        "members": [
+            {
+                "handle": "ksun48"
+            }
+        ],
+        "participantType": "CONTESTANT",
+        "ghost": false,
+        "startTimeSeconds": 1730126100
+    },
+    "programmingLanguage": "C++20 (GCC 13-64)",
+    "verdict": "OK",
+    "testset": "TESTS",
+    "passedTestCount": 19,
+    "timeConsumedMillis": 62,
+    "memoryConsumedBytes": 0
+}

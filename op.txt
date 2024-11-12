@@ -3,7 +3,7 @@
  <head>
   <script async="" src="https://www.google-analytics.com/analytics.js" type="text/javascript">
   </script>
-  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-K230KVN22K&amp;l=dataLayer&amp;cx=c" type="text/javascript">
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-K230KVN22K&amp;l=dataLayer&amp;cx=c&amp;gtm=457e4b70za200" type="text/javascript">
   </script>
   <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-743380-5">
   </script>
@@ -14,9 +14,9 @@
             gtag('config', 'UA-743380-5');
   </script>
   <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
-  <meta content="ec43d663a96be26d19a7ad8c4c35757d" name="X-Csrf-Token"/>
+  <meta content="f74f2aa5e578c2fd20fb35fde60d1cbd" name="X-Csrf-Token"/>
   <meta content="width=device-width, initial-scale=0.01" id="viewport" name="viewport"/>
-  <script src="//codeforces.org/s/25350/js/jquery-1.8.3.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/jquery-1.8.3.js" type="text/javascript">
   </script>
   <script type="application/javascript">
    window.locale = "en";
@@ -43,11 +43,11 @@
   </script>
   <meta content="no-cache" http-equiv="pragma"/>
   <meta content="-1" http-equiv="expires"/>
-  <meta content="j1" http-equiv="profileName"/>
+  <meta content="j2" http-equiv="profileName"/>
   <meta content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90" name="google-site-verification"/>
   <meta content="100001352546622" property="fb:admins"/>
-  <meta content="//codeforces.org/s/25350/images/codeforces-sponsored-by-ton.png" property="og:image"/>
-  <link href="//codeforces.org/s/25350/images/codeforces-sponsored-by-ton.png" rel="image_src"/>
+  <meta content="//codeforces.org/s/66284/images/codeforces-sponsored-by-ton.png" property="og:image"/>
+  <link href="//codeforces.org/s/66284/images/codeforces-sponsored-by-ton.png" rel="image_src"/>
   <meta content="Submission #285418011 - Codeforces" property="og:title"/>
   <meta content="" property="og:description"/>
   <meta content="Codeforces" property="og:site_name"/>
@@ -63,46 +63,46 @@
   <meta content="Codeforces. Programming competitions and contests, programming community" name="description"/>
   <meta content="programming algorithm contest competition informatics olympiads c++ java graphs vkcup" name="keywords"/>
   <meta content="index, follow" name="robots"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/line-awesome.min.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/line-awesome.min.css" rel="stylesheet" type="text/css"/>
   <link href="//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css"/>
   <link href="//fonts.googleapis.com/css?family=Cuprum&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css"/>
-  <link href="//codeforces.org/s/25350/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
-  <link href="//codeforces.org/s/25350/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
-  <link href="//codeforces.org/s/25350/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
-  <link href="//codeforces.org/s/25350/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
-  <link href="//codeforces.org/s/25350/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
-  <link href="//codeforces.org/s/25350/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
-  <link href="//codeforces.org/s/25350/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
-  <link href="//codeforces.org/s/25350/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
-  <link href="//codeforces.org/s/25350/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
-  <link href="//codeforces.org/s/25350/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
-  <link href="//codeforces.org/s/25350/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
-  <link href="//codeforces.org/s/25350/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
-  <link href="//codeforces.org/s/25350/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="//codeforces.org/s/66284/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+  <link href="//codeforces.org/s/66284/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+  <link href="//codeforces.org/s/66284/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="//codeforces.org/s/66284/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="//codeforces.org/s/66284/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="//codeforces.org/s/66284/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="//codeforces.org/s/66284/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="//codeforces.org/s/66284/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="//codeforces.org/s/66284/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="//codeforces.org/s/66284/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+  <link href="//codeforces.org/s/66284/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="//codeforces.org/s/66284/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="//codeforces.org/s/66284/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
   <link href="/manifest.json" rel="manifest"/>
   <meta content="#ffffff" name="msapplication-TileColor"/>
-  <meta content="//codeforces.org/s/25350/ms-icon-144x144.png" name="msapplication-TileImage"/>
+  <meta content="//codeforces.org/s/66284/ms-icon-144x144.png" name="msapplication-TileImage"/>
   <meta content="#ffffff" name="theme-color"/>
   <!--CombineResourcesFilter-->
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/prettify.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/clear.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/style.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/ttypography.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/problem-statement.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/second-level-menu.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/roundbox.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/datatable.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/table-form.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/topic.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/jquery.jgrowl.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/facebox.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/jquery.autocomplete.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/codeforces.datepick.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/colorbox.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/jquery.drafts.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/css/community.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/prettify.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/clear.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/style.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/ttypography.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/problem-statement.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/second-level-menu.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/roundbox.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/datatable.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/table-form.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/topic.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/jquery.jgrowl.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/facebox.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/jquery.autocomplete.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/codeforces.datepick.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/colorbox.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/jquery.drafts.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/css/community.css" rel="stylesheet" type="text/css"/>
   <!-- MathJax -->
   <script type="text/x-mathjax-config;executed=true">
    MathJax.Hub.Config({
@@ -115,68 +115,68 @@
   <script async="" src="https://mathjax.codeforces.org/MathJax.js?config=TeX-AMS_HTML-full" type="text/javascript">
   </script>
   <!-- /MathJax -->
-  <script src="//codeforces.org/s/25350/js/prettify/prettify.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/prettify/prettify.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/moment-with-locales.min.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/moment-with-locales.min.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/pushstream.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/pushstream.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/jquery.easing.min.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/jquery.easing.min.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/jquery.lavalamp.min.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/jquery.lavalamp.min.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/jquery.jgrowl.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/jquery.jgrowl.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/jquery.swipe.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/jquery.swipe.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/jquery.hotkeys.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/jquery.hotkeys.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/facebox.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/facebox.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/jquery.wysiwyg.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/jquery.wysiwyg.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/controls/wysiwyg.colorpicker.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/controls/wysiwyg.colorpicker.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/controls/wysiwyg.table.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/controls/wysiwyg.table.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/controls/wysiwyg.image.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/controls/wysiwyg.image.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/controls/wysiwyg.link.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/controls/wysiwyg.link.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/jquery.autocomplete.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/jquery.autocomplete.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/jquery.datepick.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/jquery.datepick.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/jquery.ie6blocker.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/jquery.ie6blocker.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/jquery.colorbox-min.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/jquery.colorbox-min.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/jquery.ba-bbq.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/jquery.ba-bbq.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/jquery.drafts.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/jquery.drafts.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/clipboard.min.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/clipboard.min.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/autosize.min.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/autosize.min.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/sjcl.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/sjcl.js" type="text/javascript">
   </script>
-  <script src="/scripts/362a444742979733862a8504ab4c8795/en/codeforces-options.js" type="text/javascript">
+  <script src="/scripts/9aa4ece74af7823932a6a7ae18ce3579/en/codeforces-options.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/codeforces.js?v=20160131" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/codeforces.js?v=20160131" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/EventCatcher.js?v=20160131" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/EventCatcher.js?v=20160131" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/preparedVerdictFormats-en.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/preparedVerdictFormats-en.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/js/confetti.min.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/js/confetti.min.js" type="text/javascript">
   </script>
   <!--/CombineResourcesFilter-->
-  <link charset="utf-8" href="//codeforces.org/s/25350/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.org/s/25350/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css"/>
-  <script src="//codeforces.org/s/25350/markitup/jquery.markitup.js" type="text/javascript">
+  <link charset="utf-8" href="//codeforces.org/s/66284/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.org/s/66284/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css"/>
+  <script src="//codeforces.org/s/66284/markitup/jquery.markitup.js" type="text/javascript">
   </script>
-  <script src="//codeforces.org/s/25350/markitup/sets/markdown/set.js" type="text/javascript">
+  <script src="//codeforces.org/s/66284/markitup/sets/markdown/set.js" type="text/javascript">
   </script>
   <!--[if IE]>
     <style>
@@ -302,7 +302,7 @@
   <div id="MathJax_Message" style="">
    Loading [MathJax]/jax/output/HTML-CSS/fonts/TeX/fontdata.js
   </div>
-  <span class="csrf-token" data-csrf="ec43d663a96be26d19a7ad8c4c35757d" style="display:none;">
+  <span class="csrf-token" data-csrf="f74f2aa5e578c2fd20fb35fde60d1cbd" style="display:none;">
   </span>
   <!-- .notificationTextCleaner used in Codeforces.showAnnouncements() -->
   <div class="notificationTextCleaner" style="font-size: 0">
@@ -540,12 +540,12 @@
   <div id="body">
    <script type="text/javascript">
     $(function() {
-                window._ftaa = "81jia64hxvttydnvgw";
+                window._ftaa = "179dmr1i7lzb0bzz7f";
             })
    </script>
    <script type="text/javascript">
     $(function() {
-                window._bfaa = "216a65d1819edcc41519ffc25ab30c3d";
+                window._bfaa = "d063bd48f9677b77e8fb6bc7b20bc61f";
             });
    </script>
    <script type="application/javascript">
@@ -587,7 +587,7 @@
 
     .header-bell__img {
         opacity: 0.5;
-        background-image: url("//codeforces.org/s/25350/images/icons/bell_inactive-20x20.png");
+        background-image: url("//codeforces.org/s/66284/images/icons/bell_inactive-20x20.png");
         position: relative;
         bottom: 1px;
         width: 20px;
@@ -596,7 +596,7 @@
 
     .header-bell__img-active  {
         opacity: 1 !important;
-        background-image: url("//codeforces.org/s/25350/images/icons/bell_active-20x20.png") !important;
+        background-image: url("//codeforces.org/s/66284/images/icons/bell_active-20x20.png") !important;
     }
 
     .header-bell__count {
@@ -1035,7 +1035,7 @@
    <div id="header" style="position: relative;">
     <div style="float:left; max-height: 60px;">
      <a href="/">
-      <img alt="Codeforces" height="65" src="//codeforces.org/s/25350/images/codeforces-sponsored-by-ton.png" style="height: 65px;" title="Codeforces"/>
+      <img alt="Codeforces" height="65" src="//codeforces.org/s/66284/images/codeforces-sponsored-by-ton.png" style="height: 65px;" title="Codeforces"/>
      </a>
     </div>
     <div class="lang-chooser">
@@ -1085,10 +1085,10 @@
        |
       </span>
       <a href="?locale=en">
-       <img alt="In English" src="//codeforces.org/s/25350/images/flags/24/gb.png" title="In English"/>
+       <img alt="In English" src="//codeforces.org/s/66284/images/flags/24/gb.png" title="In English"/>
       </a>
       <a href="?locale=ru">
-       <img alt="По-русски" src="//codeforces.org/s/25350/images/flags/24/ru.png" title="По-русски"/>
+       <img alt="По-русски" src="//codeforces.org/s/66284/images/flags/24/ru.png" title="По-русски"/>
       </a>
      </div>
      <div>
@@ -1096,17 +1096,17 @@
        rythmtheif
       </a>
       |
-      <a href="/809eb56f358be433fa26b1adb936eacb/logout">
+      <a href="/d78a82a1f7ad1d30af04fdbc78e07ded/logout">
        Logout
       </a>
      </div>
      <div style="background-color: #EAF4FF; padding: 1px 3px; font-size: 1.1rem; margin-top: 3px">
-      <img src="//codeforces.org/s/25350/images/icons/mail-16x16.png" style=""/>
+      <img src="//codeforces.org/s/66284/images/icons/mail-16x16.png" style=""/>
       <span style="position: relative; bottom: 3px;">
        You have
        <b>
-        <a href="/bestRatingChanges/15436444">
-         +356! Wow!
+        <a href="/bestRatingChanges/15600700">
+         +357! Wow!
         </a>
        </b>
       </span>
@@ -1181,9 +1181,9 @@
       </li>
      </ul>
      <form action="/search" method="post">
-      <input name="csrf_token" type="hidden" value="ec43d663a96be26d19a7ad8c4c35757d"/>
+      <input name="csrf_token" type="hidden" value="f74f2aa5e578c2fd20fb35fde60d1cbd"/>
       <input class="search" data-isplaceholder="true" name="query" value=""/>
-      <input name="_tta" type="hidden" value="780"/>
+      <input name="_tta" type="hidden" value="546"/>
      </form>
      <br style="clear: both;"/>
     </div>
@@ -1294,9 +1294,9 @@
        <div style="position:absolute;right:0.25em;top:0.35em;">
         <span class="rowCount" style="padding:0;position:relative;bottom:2px;">
         </span>
-        <img class="closed" src="//codeforces.org/s/25350/images/icons/control.png"/>
+        <img class="closed" src="//codeforces.org/s/66284/images/icons/control.png"/>
         <span class="filter" style="display:none;">
-         <img class="opened" src="//codeforces.org/s/25350/images/icons/control-270.png"/>
+         <img class="opened" src="//codeforces.org/s/66284/images/icons/control-270.png"/>
          <input style="padding:0 0 0 20px;position:relative;bottom:2px;border:1px solid #aaa;height:17px;font-size:1.3rem;"/>
         </span>
        </div>
@@ -1386,7 +1386,7 @@
           </td>
           <td class="bottom dark">
            <span>
-            <img alt="Add to favourites" class="toggle-favourite add-favourite" data-entityid="285418011" data-size="24" data-type="SUBMISSION" src="//codeforces.org/s/25350/images/icons/star_gray_24.png" style="cursor: pointer" title="Add to favourites"/>
+            <img alt="Add to favourites" class="toggle-favourite add-favourite" data-entityid="285418011" data-size="24" data-type="SUBMISSION" src="//codeforces.org/s/66284/images/icons/star_gray_24.png" style="cursor: pointer" title="Add to favourites"/>
            </span>
            <script type="text/javascript">
             $(document).ready(function () {
@@ -1405,11 +1405,11 @@
                                 alert(response["message"]);
                             } else {
                                 if (img.hasClass("remove-favourite")) {
-                                    img.attr("src", "//codeforces.org/s/25350/images/icons/star_gray_" + size + ".png");
+                                    img.attr("src", "//codeforces.org/s/66284/images/icons/star_gray_" + size + ".png");
                                     img.removeClass("remove-favourite");
                                     img.addClass("add-favourite");
                                 } else {
-                                    img.attr("src", "//codeforces.org/s/25350/images/icons/star_yellow_" + size + ".png");
+                                    img.attr("src", "//codeforces.org/s/66284/images/icons/star_yellow_" + size + ".png");
                                     img.removeClass("add-favourite");
                                     img.addClass("remove-favourite");
                                 }
@@ -1544,7 +1544,7 @@
        → Source
        <div class="top-links">
        </div>
-       <div class="source-copier" data-clipboard-target="#program-source-text" id="id0020783695669019453" title="Copy">
+       <div class="source-copier" data-clipboard-target="#program-source-text" id="id005005897699875017" title="Copy">
         Copy
        </div>
       </div>
@@ -1776,7 +1776,7 @@
      <div class="submissions-diff-popup" style="display:none;width:900px;height:500px;overflow:auto;padding:1em;margin:1em;font-size:1.2rem;">
       <div>
        <form action="#" class="getDiffForm" method="post">
-        <input name="csrf_token" type="hidden" value="ec43d663a96be26d19a7ad8c4c35757d"/>
+        <input name="csrf_token" type="hidden" value="f74f2aa5e578c2fd20fb35fde60d1cbd"/>
         <table>
          <tbody>
           <tr>
@@ -1806,7 +1806,7 @@
            </td>
            <td>
             <input type="submit" value="Compare"/>
-            <img alt="waiting..." class="waitingIndicator" src="//codeforces.org/s/25350/images/indicator.gif" style="display: none"/>
+            <img alt="waiting..." class="waitingIndicator" src="//codeforces.org/s/66284/images/indicator.gif" style="display: none"/>
             <div class="shiftUp error__diffFormSubmit">
              <span class="error for__diffFormSubmit" style="display: none;">
              </span>
@@ -1817,7 +1817,7 @@
           </tr>
          </tbody>
         </table>
-        <input name="_tta" type="hidden" value="780"/>
+        <input name="_tta" type="hidden" value="546"/>
        </form>
        <div class="diffHtmlTarget">
        </div>
@@ -1853,7 +1853,7 @@
      </div>
      <div class="add-submission-to-problem-solutions-box" style="display: none; width: 500px">
       <form method="POST">
-       <input name="csrf_token" type="hidden" value="ec43d663a96be26d19a7ad8c4c35757d"/>
+       <input name="csrf_token" type="hidden" value="f74f2aa5e578c2fd20fb35fde60d1cbd"/>
        <h5>
         Add solution to problem
        </h5>
@@ -1905,13 +1905,13 @@
          </tr>
         </tbody>
        </table>
-       <input name="_tta" type="hidden" value="780"/>
+       <input name="_tta" type="hidden" value="546"/>
       </form>
      </div>
      <script type="text/javascript">
       $(function () {
         $("button.showDiff").click(function () {
-            Codeforces.facebox(".submissions-diff-popup", "//codeforces.org/s/25350");
+            Codeforces.facebox(".submissions-diff-popup", "//codeforces.org/s/66284");
             var getDiffForms = $(".getDiffForm");
             getDiffForms.submit(Codeforces.getDiffFormSubmitListener);
         });
@@ -1937,11 +1937,11 @@
      The only programming contests Web 2.0 platform
     </div>
     <div>
-     Server time: Oct/29/2024 13:45:26
+     Server time: Nov/10/2024 17:44:43
      <sup style="font-size:8px;" title="timezone offset">
       UTC+5.5
      </sup>
-     (j1).
+     (j2).
     </div>
     <div>
      Desktop version, switch to
@@ -1960,12 +1960,12 @@
     </div>
     <div class="footer-logo-div" style="left: 30px;">
      <a href="https://ton.org/">
-      <img alt="TON" src="//codeforces.org/s/25350/images/ton-100x100.png" style="margin-right: 2em; width: 60px;" title="TON"/>
+      <img alt="TON" src="//codeforces.org/s/66284/images/ton-100x100.png" style="margin-right: 2em; width: 60px;" title="TON"/>
      </a>
      <div class="sep">
      </div>
      <a class="itmo-logo" href="https://en.itmo.ru/en/">
-      <img alt="ITMO University" src="//codeforces.org/s/25350/images/itmo_small_en-logo.png" style="width: 140px;" title="ITMO University"/>
+      <img alt="ITMO University" src="//codeforces.org/s/66284/images/itmo_small_en-logo.png" style="width: 140px;" title="ITMO University"/>
      </a>
     </div>
    </div>
@@ -2032,9 +2032,9 @@
        <div style="position:absolute;right:0.25em;top:0.35em;">
         <span class="rowCount" style="padding:0;position:relative;bottom:2px;">
         </span>
-        <img class="closed" src="//codeforces.org/s/25350/images/icons/control.png"/>
+        <img class="closed" src="//codeforces.org/s/66284/images/icons/control.png"/>
         <span class="filter" style="display:none;">
-         <img class="opened" src="//codeforces.org/s/25350/images/icons/control-270.png"/>
+         <img class="opened" src="//codeforces.org/s/66284/images/icons/control-270.png"/>
          <input style="padding:0 0 0 20px;position:relative;bottom:2px;border:1px solid #aaa;height:17px;font-size:1.3rem;"/>
         </span>
        </div>
@@ -2196,7 +2196,7 @@
   </div>
   <script type="application/javascript">
    if ('serviceWorker' in navigator && 'fetch' in window && 'caches' in window) {
-            navigator.serviceWorker.register('/service-worker-25350.js')
+            navigator.serviceWorker.register('/service-worker-66284.js')
                 .then(function (registration) {
                     console.log('Service worker registered: ', registration);
                 })
@@ -2205,7 +2205,7 @@
                 });
         }
   </script>
-  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"8da1b7bf8f1b3b22","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2024.10.4","token":"316c29dfa3804effb5a91c52a59b5bd0"}' defer="" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015">
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"8e05f6b5bd5a29f2","version":"2024.10.5","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"token":"316c29dfa3804effb5a91c52a59b5bd0","b":1}' defer="" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015">
   </script>
   <div id="datepick-div" style="display: none;">
   </div>

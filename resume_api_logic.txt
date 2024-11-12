@@ -1,0 +1,6 @@
+resume API call logic ->
+
+Save:
+1. row[index]
+2. current handle
+3. contest id 
