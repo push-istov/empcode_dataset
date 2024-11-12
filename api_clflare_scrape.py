@@ -15,8 +15,6 @@ codetesturl = 'https://codeforces.com/contest/2018/submission/285418011'
 
 # username = "rythmtheif"
 # password = "anto!#$"
-username = "kadampushkar8@gmail.com"
-password = "ramenT-T3#8&!"
 
 cookies_file = "cookies.json"
 
