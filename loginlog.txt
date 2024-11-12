@@ -3,7 +3,7 @@
  <head>
   <script async="" src="https://www.google-analytics.com/analytics.js" type="text/javascript">
   </script>
-  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-K230KVN22K&amp;l=dataLayer&amp;cx=c&amp;gtm=457e4bb0za200" type="text/javascript">
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-K230KVN22K&amp;l=dataLayer&amp;cx=c&amp;gtm=457e4b70za200" type="text/javascript">
   </script>
   <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-743380-5">
   </script>
@@ -14,9 +14,9 @@
             gtag('config', 'UA-743380-5');
   </script>
   <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
-  <meta content="f33cb8d345cb08983c3d691c6f8b20f3" name="X-Csrf-Token"/>
+  <meta content="6ca52d292832b1b8cc67c29337b3e3d9" name="X-Csrf-Token"/>
   <meta content="width=device-width, initial-scale=0.01" id="viewport" name="viewport"/>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/jquery-1.8.3.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/jquery-1.8.3.js" type="text/javascript">
   </script>
   <script type="application/javascript">
    window.locale = "en";
@@ -43,11 +43,11 @@
   </script>
   <meta content="no-cache" http-equiv="pragma"/>
   <meta content="-1" http-equiv="expires"/>
-  <meta content="l2" http-equiv="profileName"/>
+  <meta content="j2" http-equiv="profileName"/>
   <meta content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90" name="google-site-verification"/>
   <meta content="100001352546622" property="fb:admins"/>
-  <meta content="//codeforces.com/codeforces.org/s/36365/images/codeforces-sponsored-by-ton.png" property="og:image"/>
-  <link href="//codeforces.com/codeforces.org/s/36365/images/codeforces-sponsored-by-ton.png" rel="image_src"/>
+  <meta content="//codeforces.com/codeforces.org/s/55945/images/codeforces-sponsored-by-ton.png" property="og:image"/>
+  <link href="//codeforces.com/codeforces.org/s/55945/images/codeforces-sponsored-by-ton.png" rel="image_src"/>
   <meta content="Codeforces" property="og:title"/>
   <meta content="" property="og:description"/>
   <meta content="Codeforces" property="og:site_name"/>
@@ -61,46 +61,46 @@
   <meta content="Codeforces. Programming competitions and contests, programming community" name="description"/>
   <meta content="programming algorithm contest competition informatics olympiads c++ java graphs vkcup" name="keywords"/>
   <meta content="index, follow" name="robots"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/line-awesome.min.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/line-awesome.min.css" rel="stylesheet" type="text/css"/>
   <link href="//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css"/>
   <link href="//fonts.googleapis.com/css?family=Cuprum&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css"/>
-  <link href="//codeforces.com/codeforces.org/s/36365/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
-  <link href="//codeforces.com/codeforces.org/s/36365/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
-  <link href="//codeforces.com/codeforces.org/s/36365/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
-  <link href="//codeforces.com/codeforces.org/s/36365/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
-  <link href="//codeforces.com/codeforces.org/s/36365/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
-  <link href="//codeforces.com/codeforces.org/s/36365/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
-  <link href="//codeforces.com/codeforces.org/s/36365/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
-  <link href="//codeforces.com/codeforces.org/s/36365/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
-  <link href="//codeforces.com/codeforces.org/s/36365/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
-  <link href="//codeforces.com/codeforces.org/s/36365/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
-  <link href="//codeforces.com/codeforces.org/s/36365/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
-  <link href="//codeforces.com/codeforces.org/s/36365/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
-  <link href="//codeforces.com/codeforces.org/s/36365/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="//codeforces.com/codeforces.org/s/55945/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+  <link href="//codeforces.com/codeforces.org/s/55945/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+  <link href="//codeforces.com/codeforces.org/s/55945/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="//codeforces.com/codeforces.org/s/55945/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="//codeforces.com/codeforces.org/s/55945/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="//codeforces.com/codeforces.org/s/55945/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="//codeforces.com/codeforces.org/s/55945/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="//codeforces.com/codeforces.org/s/55945/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="//codeforces.com/codeforces.org/s/55945/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="//codeforces.com/codeforces.org/s/55945/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+  <link href="//codeforces.com/codeforces.org/s/55945/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="//codeforces.com/codeforces.org/s/55945/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="//codeforces.com/codeforces.org/s/55945/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
   <link href="/manifest.json" rel="manifest"/>
   <meta content="#ffffff" name="msapplication-TileColor"/>
-  <meta content="//codeforces.com/codeforces.org/s/36365/ms-icon-144x144.png" name="msapplication-TileImage"/>
+  <meta content="//codeforces.com/codeforces.org/s/55945/ms-icon-144x144.png" name="msapplication-TileImage"/>
   <meta content="#ffffff" name="theme-color"/>
   <!--CombineResourcesFilter-->
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/prettify.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/clear.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/style.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/ttypography.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/problem-statement.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/second-level-menu.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/roundbox.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/datatable.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/table-form.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/topic.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/jquery.jgrowl.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/facebox.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/jquery.autocomplete.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/codeforces.datepick.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/colorbox.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/jquery.drafts.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/css/community.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/prettify.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/clear.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/style.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/ttypography.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/problem-statement.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/second-level-menu.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/roundbox.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/datatable.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/table-form.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/topic.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/jquery.jgrowl.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/facebox.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/jquery.autocomplete.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/codeforces.datepick.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/colorbox.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/jquery.drafts.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/css/community.css" rel="stylesheet" type="text/css"/>
   <!-- MathJax -->
   <script type="text/x-mathjax-config;executed=true">
    MathJax.Hub.Config({
@@ -113,68 +113,68 @@
   <script async="" src="https://codeforces.com/mathjax.codeforces.org/MathJax.js?config=TeX-AMS_HTML-full" type="text/javascript">
   </script>
   <!-- /MathJax -->
-  <script src="//codeforces.com/codeforces.org/s/36365/js/prettify/prettify.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/prettify/prettify.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/moment-with-locales.min.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/moment-with-locales.min.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/pushstream.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/pushstream.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/jquery.easing.min.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/jquery.easing.min.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/jquery.lavalamp.min.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/jquery.lavalamp.min.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/jquery.jgrowl.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/jquery.jgrowl.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/jquery.swipe.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/jquery.swipe.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/jquery.hotkeys.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/jquery.hotkeys.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/facebox.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/facebox.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/jquery.wysiwyg.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/jquery.wysiwyg.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/controls/wysiwyg.colorpicker.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/controls/wysiwyg.colorpicker.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/controls/wysiwyg.table.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/controls/wysiwyg.table.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/controls/wysiwyg.image.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/controls/wysiwyg.image.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/controls/wysiwyg.link.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/controls/wysiwyg.link.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/jquery.autocomplete.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/jquery.autocomplete.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/jquery.datepick.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/jquery.datepick.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/jquery.ie6blocker.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/jquery.ie6blocker.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/jquery.colorbox-min.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/jquery.colorbox-min.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/jquery.ba-bbq.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/jquery.ba-bbq.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/jquery.drafts.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/jquery.drafts.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/clipboard.min.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/clipboard.min.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/autosize.min.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/autosize.min.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/sjcl.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/sjcl.js" type="text/javascript">
   </script>
-  <script src="/scripts/62a6c9f0fbcabd885fc69008578da7c6/en/codeforces-options.js" type="text/javascript">
+  <script src="/scripts/8feea272cb9f3f706d328dd599717734/en/codeforces-options.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/codeforces.js?v=20160131" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/codeforces.js?v=20160131" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/EventCatcher.js?v=20160131" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/EventCatcher.js?v=20160131" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/preparedVerdictFormats-en.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/preparedVerdictFormats-en.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/js/confetti.min.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/js/confetti.min.js" type="text/javascript">
   </script>
   <!--/CombineResourcesFilter-->
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css"/>
-  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/36365/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css"/>
-  <script src="//codeforces.com/codeforces.org/s/36365/markitup/jquery.markitup.js" type="text/javascript">
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/markitup/skins/markitup/style.css" rel="stylesheet" type="text/css"/>
+  <link charset="utf-8" href="//codeforces.com/codeforces.org/s/55945/markitup/sets/markdown/style.css" rel="stylesheet" type="text/css"/>
+  <script src="//codeforces.com/codeforces.org/s/55945/markitup/jquery.markitup.js" type="text/javascript">
   </script>
-  <script src="//codeforces.com/codeforces.org/s/36365/markitup/sets/markdown/set.js" type="text/javascript">
+  <script src="//codeforces.com/codeforces.org/s/55945/markitup/sets/markdown/set.js" type="text/javascript">
   </script>
   <!--[if IE]>
     <style>
@@ -333,8 +333,6 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 .MJXp-scale9 {-webkit-transform: scaleX(.9); -moz-transform: scaleX(.9); -ms-transform: scaleX(.9); -o-transform: scaleX(.9); transform: scaleX(.9)}
 .MathJax_PHTML .noError {vertical-align: ; font-size: 90%; text-align: left; color: black; padding: 1px 3px; border: 1px solid}
   </style>
-  <script src="https://codeforces.com/mathjax.codeforces.org/jax/output/HTML-CSS/autoload/multiline.js?V=2.7.9" type="text/javascript">
-  </script>
  </head>
  <body class="">
   <div id="MathJax_Message" style="display: none;">
@@ -343,7 +341,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
    <div id="MathJax_Hidden">
    </div>
   </div>
-  <span class="csrf-token" data-csrf="f33cb8d345cb08983c3d691c6f8b20f3" style="display:none;">
+  <span class="csrf-token" data-csrf="6ca52d292832b1b8cc67c29337b3e3d9" style="display:none;">
   </span>
   <!-- .notificationTextCleaner used in Codeforces.showAnnouncements() -->
   <div class="notificationTextCleaner" style="font-size: 0">
@@ -581,12 +579,12 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
   <div id="body">
    <script type="text/javascript">
     $(function() {
-                window._ftaa = "m0xx1gjsresbpfibrm";
+                window._ftaa = "dssm3pfxok8m5hh34a";
             })
    </script>
    <script type="text/javascript">
     $(function() {
-                window._bfaa = "d063bd48f9677b77e8fb6bc7b20bc61f";
+                window._bfaa = "216a65d1819edcc41519ffc25ab30c3d";
             });
    </script>
    <script type="application/javascript">
@@ -628,7 +626,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 
     .header-bell__img {
         opacity: 0.5;
-        background-image: url("//codeforces.com/codeforces.org/s/36365/images/icons/bell_inactive-20x20.png");
+        background-image: url("//codeforces.com/codeforces.org/s/55945/images/icons/bell_inactive-20x20.png");
         position: relative;
         bottom: 1px;
         width: 20px;
@@ -637,7 +635,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 
     .header-bell__img-active  {
         opacity: 1 !important;
-        background-image: url("//codeforces.com/codeforces.org/s/36365/images/icons/bell_active-20x20.png") !important;
+        background-image: url("//codeforces.com/codeforces.org/s/55945/images/icons/bell_active-20x20.png") !important;
     }
 
     .header-bell__count {
@@ -1076,7 +1074,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
    <div id="header" style="position: relative;">
     <div style="float:left; max-height: 60px;">
      <a href="/">
-      <img alt="Codeforces" height="65" src="//codeforces.com/codeforces.org/s/36365/images/codeforces-sponsored-by-ton.png" style="height: 65px;" title="Codeforces"/>
+      <img alt="Codeforces" height="65" src="//codeforces.com/codeforces.org/s/55945/images/codeforces-sponsored-by-ton.png" style="height: 65px;" title="Codeforces"/>
      </a>
     </div>
     <div class="lang-chooser">
@@ -1126,10 +1124,10 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
        |
       </span>
       <a href="?locale=en">
-       <img alt="In English" src="//codeforces.com/codeforces.org/s/36365/images/flags/24/gb.png" title="In English"/>
+       <img alt="In English" src="//codeforces.com/codeforces.org/s/55945/images/flags/24/gb.png" title="In English"/>
       </a>
       <a href="?locale=ru">
-       <img alt="По-русски" src="//codeforces.com/codeforces.org/s/36365/images/flags/24/ru.png" title="По-русски"/>
+       <img alt="По-русски" src="//codeforces.com/codeforces.org/s/55945/images/flags/24/ru.png" title="По-русски"/>
       </a>
      </div>
      <div>
@@ -1137,12 +1135,12 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
        rythmtheif
       </a>
       |
-      <a href="/00539daaafb730a67cc5b761ae64e3b7/logout">
+      <a href="/493ff4245bce1563a03daba5cf096808/logout">
        Logout
       </a>
      </div>
      <div style="background-color: #EAF4FF; padding: 1px 3px; font-size: 1.1rem; margin-top: 3px">
-      <img src="//codeforces.com/codeforces.org/s/36365/images/icons/mail-16x16.png" style=""/>
+      <img src="//codeforces.com/codeforces.org/s/55945/images/icons/mail-16x16.png" style=""/>
       <span style="position: relative; bottom: 3px;">
        You have
        <b>
@@ -1222,9 +1220,9 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
       </li>
      </ul>
      <form action="/search" method="post">
-      <input name="csrf_token" type="hidden" value="f33cb8d345cb08983c3d691c6f8b20f3"/>
+      <input name="csrf_token" type="hidden" value="6ca52d292832b1b8cc67c29337b3e3d9"/>
       <input class="search" data-isplaceholder="true" name="query" value=""/>
-      <input name="_tta" type="hidden" value="825"/>
+      <input name="_tta" type="hidden" value="73"/>
      </form>
      <br style="clear: both;"/>
     </div>
@@ -1258,10 +1256,8 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          2024-2025 ICPC, NERC, Southern and Volga Russian Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)
         </a>
         <br/>
-        <span cdid="i1" class="countdown" home="//codeforces.com/codeforces.org/s/36365" noredirection="true" textbeforeredirect="">
-         <span title="52:57:25">
-          2 days
-         </span>
+        <span cdid="i1" class="countdown" home="//codeforces.com/codeforces.org/s/55945" noredirection="true" textbeforeredirect="">
+         44:39:19
         </span>
         <br/>
         <a href="/contestRegistration/2038">
@@ -1354,14 +1350,14 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
        <div>
         <ul class="propertyLinks">
          <li>
-          <img alt="User''s contest rating in Codeforces community" src="//codeforces.com/codeforces.org/s/36365/images/icons/rating-16x16.png" style="vertical-align:middle;position:relative;top:-2px" title="User''s contest rating in Codeforces community"/>
+          <img alt="User''s contest rating in Codeforces community" src="//codeforces.com/codeforces.org/s/55945/images/icons/rating-16x16.png" style="vertical-align:middle;position:relative;top:-2px" title="User''s contest rating in Codeforces community"/>
           Rating:
           <span class="user-gray" style="font-weight:bold;">
            682
           </span>
          </li>
          <li>
-          <img alt="User''s contribution into Codeforces community" src="//codeforces.com/codeforces.org/s/36365/images/icons/star_blue_16.png" style="vertical-align:middle;position:relative;top:-2px" title="User''s contribution into Codeforces community"/>
+          <img alt="User''s contribution into Codeforces community" src="//codeforces.com/codeforces.org/s/55945/images/icons/star_blue_16.png" style="vertical-align:middle;position:relative;top:-2px" title="User''s contribution into Codeforces community"/>
           Contribution:
           <span style="color:gray;font-weight:bold;">
            0
@@ -1792,7 +1788,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
        </div>
       </div>
       <form autocomplete="off" class="handleForm" method="post">
-       <input name="csrf_token" type="hidden" value="f33cb8d345cb08983c3d691c6f8b20f3"/>
+       <input name="csrf_token" type="hidden" value="6ca52d292832b1b8cc67c29337b3e3d9"/>
        <div style="padding:1em;text-align:right;">
         <label style="padding-right:1em;">
          Handle:
@@ -1802,7 +1798,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
        <div style="padding: 0 1em 1em 1em;text-align:right;">
         <input style="height:1.65em;padding:0 0.75em;" type="submit" value="Find"/>
        </div>
-       <input name="_tta" type="hidden" value="825"/>
+       <input name="_tta" type="hidden" value="73"/>
       </form>
      </div>
      <script type="text/javascript">
@@ -1833,122 +1829,14 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
        <ul>
         <li>
          <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-green" href="/profile/Md_Abu_Taleb" title="Pupil Md_Abu_Taleb">
-           Md_Abu_Taleb
+          <a class="rated-user user-blue" href="/profile/1.618034" title="Expert 1.618034">
+           1.618034
           </a>
           →
-          <a href="/blog/entry/136136">
-           c++17 vs c++20/23
+          <a href="/blog/entry/135982">
+           Why cheaters in addition to cheating became RUDE these days??
           </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
-         </div>
-        </li>
-        <li>
-         <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-violet" href="/profile/FBI" title="Candidate Master FBI">
-           FBI
-          </a>
-          →
-          <a href="/blog/entry/135520">
-           Codeforces Round 981(Div. 3) Editorial
-          </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
-         </div>
-        </li>
-        <li>
-         <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-orange" href="/profile/applepi216" title="Master applepi216">
-           applepi216
-          </a>
-          →
-          <a href="/blog/entry/136096">
-           Codeforces Round 986 (Div. 2) Editorial
-          </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
-         </div>
-        </li>
-        <li>
-         <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-violet" href="/profile/eternal_happiness" title="Candidate Master eternal_happiness">
-           eternal_happiness
-          </a>
-          →
-          <a href="/blog/entry/136143">
-           CM after taking a break for nearly a year
-          </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
-         </div>
-        </li>
-        <li>
-         <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-orange" href="/profile/pwned" title="Master pwned">
-           pwned
-          </a>
-          →
-          <a href="/blog/entry/136021">
-           Codeforces Round 987 (Div. 2)
-          </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
-         </div>
-        </li>
-        <li>
-         <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-orange" href="/profile/ToniB" title="International Master ToniB">
-           ToniB
-          </a>
-          →
-          <a href="/blog/entry/136052">
-           Croatian Open Competition in Informatics (COCI) 2024/2025 — Round #2
-          </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
-         </div>
-        </li>
-        <li>
-         <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-blue" href="/profile/BluoCaroot" title="Expert BluoCaroot">
-           BluoCaroot
-          </a>
-          →
-          <a href="/blog/entry/135590">
-           IEEEXtreme 18.0 Problems Discussion
-          </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
-         </div>
-        </li>
-        <li>
-         <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-orange" href="/profile/azureglow" title="Master azureglow">
-           azureglow
-          </a>
-          →
-          <a href="/blog/entry/124138">
-           Good Bye 2023 tutorial
-          </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
-         </div>
-        </li>
-        <li>
-         <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-gray" href="/profile/ratatouille99" title="Newbie ratatouille99">
-           ratatouille99
-          </a>
-          →
-          <a href="/blog/entry/136140">
-           2024-2025 ICPC Latin American
-          </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
-         </div>
-        </li>
-        <li>
-         <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-orange" href="/profile/applepi216" title="Master applepi216">
-           applepi216
-          </a>
-          →
-          <a href="/blog/entry/136061">
-           Codeforces Round 986 (Div. 2)
-          </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
          </div>
         </li>
         <li>
@@ -1960,43 +1848,176 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
           <a href="/blog/entry/136141">
            Tips on becoming specialist
           </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
          </div>
         </li>
         <li>
          <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-violet" href="/profile/alexmcmahon" title="Candidate Master alexmcmahon">
-           alexmcmahon
+          <a class="rated-user user-green" href="/profile/Muhimin" title="Pupil Muhimin">
+           Muhimin
           </a>
           →
-          <a href="/blog/entry/129808">
-           Introducing My Fast I/O Library for C++
+          <a href="/blog/entry/136146">
+           Solutions Are Being Sold During Contest Time !!
           </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
          </div>
         </li>
         <li>
          <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-violet" href="/profile/Octagons" title="Candidate Master Octagons">
-           Octagons
+          <a class="rated-user user-gray" href="/profile/The6thWall" title="Newbie The6thWall">
+           The6thWall
           </a>
           →
-          <a href="/blog/entry/135324">
-           ACPC 2024 qualified teams list
+          <a href="/blog/entry/136164">
+           When will Zig be added to Codeforces?
           </a>
-          <img alt="Text created or updated" src="//codeforces.com/codeforces.org/s/36365/images/icons/x-update-12x12.png" style="vertical-align:middle;" title="Text created or updated"/>
+          <img alt="Text created or updated" src="//codeforces.com/codeforces.org/s/55945/images/icons/x-update-12x12.png" style="vertical-align:middle;" title="Text created or updated"/>
          </div>
         </li>
         <li>
          <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-gray" href="/profile/hikaru_fan" title="Newbie hikaru_fan">
-           hikaru_fan
+          <a class="rated-user user-blue" href="/profile/aviralarpan3301" title="Expert aviralarpan3301">
+           aviralarpan3301
           </a>
           →
-          <a href="/blog/entry/136069">
-           A quant interview problem-solving channel
+          <a href="/blog/entry/132411">
+           What makes atcoder problems so good?
           </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+         </div>
+        </li>
+        <li>
+         <div style="font-size:0.9em;padding:0.5em 0;">
+          <a class="rated-user user-orange" href="/profile/applepi216" title="Master applepi216">
+           applepi216
+          </a>
+          →
+          <a href="/blog/entry/136061">
+           Codeforces Round 986 (Div. 2)
+          </a>
+          <img alt="Text created or updated" src="//codeforces.com/codeforces.org/s/55945/images/icons/x-update-12x12.png" style="vertical-align:middle;" title="Text created or updated"/>
+         </div>
+        </li>
+        <li>
+         <div style="font-size:0.9em;padding:0.5em 0;">
+          <a class="rated-user user-violet" href="/profile/unforgettablepl" title="Candidate Master unforgettablepl">
+           unforgettablepl
+          </a>
+          →
+          <a href="/blog/entry/132041">
+           The SPOI Mentorship Program 2025
+          </a>
+          <img alt="Text created or updated" src="//codeforces.com/codeforces.org/s/55945/images/icons/x-update-12x12.png" style="vertical-align:middle;" title="Text created or updated"/>
+         </div>
+        </li>
+        <li>
+         <div style="font-size:0.9em;padding:0.5em 0;">
+          <a class="rated-user user-violet" href="/profile/eternal_happiness" title="Candidate Master eternal_happiness">
+           eternal_happiness
+          </a>
+          →
+          <a href="/blog/entry/136143">
+           CM after taking a break for nearly a year
+          </a>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+         </div>
+        </li>
+        <li>
+         <div style="font-size:0.9em;padding:0.5em 0;">
+          <a class="rated-user user-gray" href="/profile/StellarSpecter" title="Newbie StellarSpecter">
+           StellarSpecter
+          </a>
+          →
+          <a href="/blog/entry/135120">
+           How to prove maths
+          </a>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+         </div>
+        </li>
+        <li>
+         <div style="font-size:0.9em;padding:0.5em 0;">
+          <a class="rated-user user-green" href="/profile/kira..04" title="Pupil kira..04">
+           kira..04
+          </a>
+          →
+          <a href="/blog/entry/136163">
+           geometry tutorial ?
+          </a>
+          <img alt="Text created or updated" src="//codeforces.com/codeforces.org/s/55945/images/icons/x-update-12x12.png" style="vertical-align:middle;" title="Text created or updated"/>
+         </div>
+        </li>
+        <li>
+         <div style="font-size:0.9em;padding:0.5em 0;">
+          <a class="rated-user user-gray" href="/profile/FAhmidamim" title="Newbie FAhmidamim">
+           FAhmidamim
+          </a>
+          →
+          <a href="/blog/entry/136162">
+           ICPC World Finals
+          </a>
+          <img alt="Text created or updated" src="//codeforces.com/codeforces.org/s/55945/images/icons/x-update-12x12.png" style="vertical-align:middle;" title="Text created or updated"/>
+         </div>
+        </li>
+        <li>
+         <div style="font-size:0.9em;padding:0.5em 0;">
+          <a class="rated-user user-blue" href="/profile/BluoCaroot" title="Expert BluoCaroot">
+           BluoCaroot
+          </a>
+          →
+          <a href="/blog/entry/135590">
+           IEEEXtreme 18.0 Problems Discussion
+          </a>
+          <img alt="Text created or updated" src="//codeforces.com/codeforces.org/s/55945/images/icons/x-update-12x12.png" style="vertical-align:middle;" title="Text created or updated"/>
+         </div>
+        </li>
+        <li>
+         <div style="font-size:0.9em;padding:0.5em 0;">
+          <a class="rated-user user-blue" href="/profile/xuyiluo" title="Expert xuyiluo">
+           xuyiluo
+          </a>
+          →
+          <a href="/blog/entry/136161">
+           Acceleration of integer operations
+          </a>
+          <img alt="Text created or updated" src="//codeforces.com/codeforces.org/s/55945/images/icons/x-update-12x12.png" style="vertical-align:middle;" title="Text created or updated"/>
+         </div>
+        </li>
+        <li>
+         <div style="font-size:0.9em;padding:0.5em 0;">
+          <a class="rated-user user-blue" href="/profile/xuyiluo" title="Expert xuyiluo">
+           xuyiluo
+          </a>
+          →
+          <a href="/blog/entry/136155">
+           some questions about hash
+          </a>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+         </div>
+        </li>
+        <li>
+         <div style="font-size:0.9em;padding:0.5em 0;">
+          <a class="rated-user user-orange" href="/profile/Alexdat2000" title="Master Alexdat2000">
+           Alexdat2000
+          </a>
+          →
+          <a href="/blog/entry/114644">
+           Editorial of Codeforces Round #862 (Div. 2)
+          </a>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+          <img alt="Necropost" src="//codeforces.com/codeforces.org/s/55945/images/icons/hourglass.png" style="vertical-align:middle; position: relative; top: 1px;" title="Necropost"/>
+         </div>
+        </li>
+        <li>
+         <div style="font-size:0.9em;padding:0.5em 0;">
+          <a class="rated-user user-orange" href="/profile/applepi216" title="Master applepi216">
+           applepi216
+          </a>
+          →
+          <a href="/blog/entry/136096">
+           Codeforces Round 986 (Div. 2) Editorial
+          </a>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
          </div>
         </li>
         <li>
@@ -2008,128 +2029,106 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
           <a href="/blog/entry/136139">
            Count edges in directed graph considering if (a,b) &amp; (b,c) are 2 edges =&gt; edge (c,a) can be added
           </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
          </div>
         </li>
         <li>
          <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-orange" href="/profile/TimDee" title="International Master TimDee">
-           TimDee
+          <a class="rated-user user-cyan" href="/profile/dorjderem" title="Specialist dorjderem">
+           dorjderem
           </a>
           →
-          <a href="/blog/entry/136073">
-           I'm IM
+          <a href="/blog/entry/127362">
+           Anyone who comments under this post has to reach CM by September if can't....
           </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
          </div>
         </li>
         <li>
          <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-gray" href="/profile/lOthBroK286" title="Newbie lOthBroK286">
-           lOthBroK286
+          <a class="rated-user user-violet" href="/profile/GetRekt" title="Candidate Master GetRekt">
+           GetRekt
           </a>
           →
-          <a href="/blog/entry/129051">
-           Some Useful chrome extension for codeforces
+          <a href="/blog/entry/136154">
+           NITS Hacks 7.0 Finals Mirror (Unrated, ICPC Rules, Teams Preferred)
           </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+          <img alt="Text created or updated" src="//codeforces.com/codeforces.org/s/55945/images/icons/x-update-12x12.png" style="vertical-align:middle;" title="Text created or updated"/>
          </div>
         </li>
         <li>
          <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-gray" href="/profile/ayman.astro" title="Newbie ayman.astro">
-           ayman.astro
+          <a class="rated-user user-orange" href="/profile/pwned" title="Master pwned">
+           pwned
           </a>
           →
-          <a href="/blog/entry/136135">
-           is CP worth it? If I'm not CS background
+          <a href="/blog/entry/136021">
+           Codeforces Round 987 (Div. 2)
           </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
          </div>
         </li>
         <li>
          <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-orange" href="/profile/RadRah" title="Master RadRah">
-           RadRah
+          <a class="rated-user user-legendary" href="/profile/Um_nik" title="Legendary Grandmaster Um_nik">
+           <span class="legendary-user-first-letter">
+            U
+           </span>
+           m_nik
           </a>
           →
-          <a href="/blog/entry/136133">
-           Thank you!
+          <a href="/blog/entry/133336">
+           Hacking (as a CF feature) does not fit modern competitive programming
           </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
          </div>
         </li>
         <li>
          <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-violet" href="/profile/Amao_Fox" title="Candidate Master Amao_Fox">
-           Amao_Fox
+          <a class="rated-user user-green" href="/profile/Md_Abu_Taleb" title="Pupil Md_Abu_Taleb">
+           Md_Abu_Taleb
           </a>
           →
-          <a href="/blog/entry/131886">
-           The Rating table
+          <a href="/blog/entry/136136">
+           c++17 vs c++20/23
           </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
          </div>
         </li>
         <li>
          <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-gray" href="/profile/Stuck_On_Gray" title="Newbie Stuck_On_Gray">
-           Stuck_On_Gray
+          <a class="rated-user user-violet" href="/profile/FBI" title="Candidate Master FBI">
+           FBI
           </a>
           →
-          <a href="/blog/entry/136104">
-           Can you write like this guy?
+          <a href="/blog/entry/135520">
+           Codeforces Round 981(Div. 3) Editorial
           </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
          </div>
         </li>
         <li>
          <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-orange" href="/profile/Error_Yuan" title="Master Error_Yuan">
-           Error_Yuan
+          <a class="rated-user user-orange" href="/profile/ToniB" title="International Master ToniB">
+           ToniB
           </a>
           →
-          <a href="/blog/entry/133516">
-           Refact.ai Match 1 (Codeforces Round 985) Editorial
+          <a href="/blog/entry/136052">
+           Croatian Open Competition in Informatics (COCI) 2024/2025 — Round #2
           </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
          </div>
         </li>
         <li>
          <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-blue" href="/profile/Filikec" title="Expert Filikec">
-           Filikec
+          <a class="rated-user user-orange" href="/profile/azureglow" title="Master azureglow">
+           azureglow
           </a>
           →
-          <a href="/blog/entry/136131">
-           Vectors make solution TLE?
+          <a href="/blog/entry/124138">
+           Good Bye 2023 tutorial
           </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
-         </div>
-        </li>
-        <li>
-         <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-orange" href="/profile/whyalwaysmezzz" title="Master whyalwaysmezzz">
-           whyalwaysmezzz
-          </a>
-          →
-          <a href="/blog/entry/136125">
-           Does codeforces need help from users?
-          </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
-         </div>
-        </li>
-        <li>
-         <div style="font-size:0.9em;padding:0.5em 0;">
-          <a class="rated-user user-orange" href="/profile/SlavicG" title="Master SlavicG">
-           SlavicG
-          </a>
-          →
-          <a href="/blog/entry/99232">
-           Codeforces Round #767 (Div. 1, Div. 2)
-          </a>
-          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/36365/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
-          <img alt="Necropost" src="//codeforces.com/codeforces.org/s/36365/images/icons/hourglass.png" style="vertical-align:middle; position: relative; top: 1px;" title="Necropost"/>
+          <img alt="New comment(s)" src="//codeforces.com/codeforces.org/s/55945/images/icons/comment-12x12.png" style="vertical-align:middle;" title="New comment(s)"/>
          </div>
         </li>
        </ul>
@@ -2167,11 +2166,11 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          applepi216
         </a>
         ,
-        <span class="format-humantime" title="09.05.2003 12:30 UTC+5.5">
+        <span class="format-humantime" title="09.05.2003 17:30 UTC+5.5">
          3 days ago
         </span>
         ,
-        <img alt="In English" src="//codeforces.com/codeforces.org/s/36365/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
+        <img alt="In English" src="//codeforces.com/codeforces.org/s/55945/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
         <span style="position:absolute;right:0;top:0.05em;margin-right:1em;display:inline;font-size:0.75em;">
          <div style="margin-top:0.25em;">
          </div>
@@ -2547,7 +2546,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
         </p>
        </div>
        <div style="font-size: 1.1rem;line-height: 1.1rem;padding-bottom: 0.5em;">
-        <img src="//codeforces.com/codeforces.org/s/36365/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/>
+        <img src="//codeforces.com/codeforces.org/s/55945/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/>
         <span style="padding: 0 0.35em;">
          Announcement of
          <a class="notice" href="/contest/2028" style="text-decoration: none;">
@@ -2578,17 +2577,17 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-up-136687" href="#">
-            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
+            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
            </a>
           </li>
           <li style="line-height: 1.6em;">
            <span style="font-size:larger;position:relative;bottom:1px;font-weight:bold;color:green" title="Topic rating">
-            +142
+            +139
            </span>
           </li>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-down-136687" href="#">
-            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
+            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
            </a>
           </li>
          </ul>
@@ -2628,7 +2627,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
         const targetId = $complaintFrame.attr("data-targetId");
         const targetClass = $complaintFrame.attr("data-targetClass");
 
-        Codeforces.facebox("._ComplaintFrame_popup", "//codeforces.com/codeforces.org/s/36365");
+        Codeforces.facebox("._ComplaintFrame_popup", "//codeforces.com/codeforces.org/s/55945");
 
         $.post("/data/complaint", {
             action: "findComplaintReasons",
@@ -2703,24 +2702,24 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li>
            <a href="/profile/applepi216">
-            <img alt="Author" src="//codeforces.com/codeforces.org/s/36365/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
+            <img alt="Author" src="//codeforces.com/codeforces.org/s/55945/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
            </a>
            <a href="/profile/applepi216">
             applepi216
            </a>
           </li>
           <li>
-           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/36365/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
-           <span class="format-humantime" title="09.05.2003 12:30 UTC+5.5">
+           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/55945/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
+           <span class="format-humantime" title="09.05.2003 17:30 UTC+5.5">
             3 days ago
            </span>
           </li>
           <li>
            <a href="/blog/entry/136061#comments">
-            <img alt="Comments" src="//codeforces.com/codeforces.org/s/36365/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
+            <img alt="Comments" src="//codeforces.com/codeforces.org/s/55945/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
            </a>
            <a href="/blog/entry/136061#comments">
-            159
+            160
            </a>
           </li>
          </ul>
@@ -2795,11 +2794,11 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          history
         </a>
         ,
-        <span class="format-humantime" title="09.05.2003 12:30 UTC+5.5">
+        <span class="format-humantime" title="09.05.2003 17:30 UTC+5.5">
          5 weeks ago
         </span>
         ,
-        <img alt="In English" src="//codeforces.com/codeforces.org/s/36365/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
+        <img alt="In English" src="//codeforces.com/codeforces.org/s/55945/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
         <span style="position:absolute;right:0;top:0.05em;margin-right:1em;display:inline;font-size:0.75em;">
          <div style="margin-top:0.25em;">
          </div>
@@ -3404,7 +3403,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
         </p>
        </div>
        <div style="font-size: 1.1rem;line-height: 1.1rem;padding-bottom: 0.5em;">
-        <img src="//codeforces.com/codeforces.org/s/36365/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/>
+        <img src="//codeforces.com/codeforces.org/s/55945/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/>
         <span style="padding: 0 0.35em;">
          Announcement of
          <a class="notice" href="/contest/2029" style="text-decoration: none;">
@@ -3435,7 +3434,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-up-135570" href="#">
-            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
+            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
            </a>
           </li>
           <li style="line-height: 1.6em;">
@@ -3445,7 +3444,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
           </li>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-down-135570" href="#">
-            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
+            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
            </a>
           </li>
          </ul>
@@ -3456,21 +3455,21 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li>
            <a href="/profile/sszcdjr">
-            <img alt="Author" src="//codeforces.com/codeforces.org/s/36365/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
+            <img alt="Author" src="//codeforces.com/codeforces.org/s/55945/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
            </a>
            <a href="/profile/sszcdjr">
             sszcdjr
            </a>
           </li>
           <li>
-           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/36365/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
-           <span class="format-humantime" title="09.05.2003 12:30 UTC+5.5">
+           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/55945/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
+           <span class="format-humantime" title="09.05.2003 17:30 UTC+5.5">
             5 weeks ago
            </span>
           </li>
           <li>
            <a href="/blog/entry/134944#comments">
-            <img alt="Comments" src="//codeforces.com/codeforces.org/s/36365/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
+            <img alt="Comments" src="//codeforces.com/codeforces.org/s/55945/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
            </a>
            <a href="/blog/entry/134944#comments">
             210
@@ -3518,11 +3517,11 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          history
         </a>
         ,
-        <span class="format-humantime" title="06.05.2003 12:30 UTC+5.5">
+        <span class="format-humantime" title="06.05.2003 17:30 UTC+5.5">
          6 days ago
         </span>
         ,
-        <img alt="In English" src="//codeforces.com/codeforces.org/s/36365/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
+        <img alt="In English" src="//codeforces.com/codeforces.org/s/55945/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
         <span style="position:absolute;right:0;top:0.05em;margin-right:1em;display:inline;font-size:0.75em;">
          <div style="margin-top:0.25em;">
          </div>
@@ -4208,7 +4207,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
     });
        </script>
        <div style="font-size: 1.1rem;line-height: 11px;">
-        <img alt="Tags" src="//codeforces.com/codeforces.org/s/36365/images/blog/tags.png" style="vertical-align: middle;" title="Tags"/>
+        <img alt="Tags" src="//codeforces.com/codeforces.org/s/55945/images/blog/tags.png" style="vertical-align: middle;" title="Tags"/>
         <span style="padding: 0 0.35em;">
          <a class="tag notice" href="/search?query=kotlin+heroes" style="text-decoration: none;">
           kotlin heroes
@@ -4232,7 +4231,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-up-136610" href="#">
-            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
+            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
            </a>
           </li>
           <li style="line-height: 1.6em;">
@@ -4242,7 +4241,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
           </li>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-down-136610" href="#">
-            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
+            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
            </a>
           </li>
          </ul>
@@ -4255,21 +4254,21 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li>
            <a href="/profile/JetBrains">
-            <img alt="Author" src="//codeforces.com/codeforces.org/s/36365/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
+            <img alt="Author" src="//codeforces.com/codeforces.org/s/55945/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
            </a>
            <a href="/profile/JetBrains">
             JetBrains
            </a>
           </li>
           <li>
-           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/36365/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
-           <span class="format-humantime" title="06.05.2003 12:30 UTC+5.5">
+           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/55945/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
+           <span class="format-humantime" title="06.05.2003 17:30 UTC+5.5">
             6 days ago
            </span>
           </li>
           <li>
            <a href="/blog/entry/135984#comments">
-            <img alt="Comments" src="//codeforces.com/codeforces.org/s/36365/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
+            <img alt="Comments" src="//codeforces.com/codeforces.org/s/55945/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
            </a>
            <a href="/blog/entry/135984#comments">
             7
@@ -4317,11 +4316,11 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          history
         </a>
         ,
-        <span class="format-humantime" title="04.05.2003 12:30 UTC+5.5">
+        <span class="format-humantime" title="04.05.2003 17:30 UTC+5.5">
          8 days ago
         </span>
         ,
-        <img alt="In English" src="//codeforces.com/codeforces.org/s/36365/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
+        <img alt="In English" src="//codeforces.com/codeforces.org/s/55945/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
         <span style="position:absolute;right:0;top:0.05em;margin-right:1em;display:inline;font-size:0.75em;">
          <div style="margin-top:0.25em;">
          </div>
@@ -4445,7 +4444,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
     });
        </script>
        <div style="font-size: 1.1rem;line-height: 11px;">
-        <img alt="Tags" src="//codeforces.com/codeforces.org/s/36365/images/blog/tags.png" style="vertical-align: middle;" title="Tags"/>
+        <img alt="Tags" src="//codeforces.com/codeforces.org/s/55945/images/blog/tags.png" style="vertical-align: middle;" title="Tags"/>
         <span style="padding: 0 0.35em;">
          <a class="tag notice" href="/search?query=refact.ai" style="text-decoration: none;">
           refact.ai
@@ -4463,7 +4462,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-up-136534" href="#">
-            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
+            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
            </a>
           </li>
           <li style="line-height: 1.6em;">
@@ -4473,7 +4472,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
           </li>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-down-136534" href="#">
-            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
+            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
            </a>
           </li>
          </ul>
@@ -4484,21 +4483,21 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li>
            <a href="/profile/refactai">
-            <img alt="Author" src="//codeforces.com/codeforces.org/s/36365/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
+            <img alt="Author" src="//codeforces.com/codeforces.org/s/55945/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
            </a>
            <a href="/profile/refactai">
             refactai
            </a>
           </li>
           <li>
-           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/36365/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
-           <span class="format-humantime" title="04.05.2003 12:30 UTC+5.5">
+           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/55945/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
+           <span class="format-humantime" title="04.05.2003 17:30 UTC+5.5">
             8 days ago
            </span>
           </li>
           <li>
            <a href="/blog/entry/135908#comments">
-            <img alt="Comments" src="//codeforces.com/codeforces.org/s/36365/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
+            <img alt="Comments" src="//codeforces.com/codeforces.org/s/55945/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
            </a>
            <a href="/blog/entry/135908#comments">
             55
@@ -4542,12 +4541,12 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          m3tr0
         </a>
         ,
-        <span class="format-humantime" title="01.05.2003 12:30 UTC+5.5">
+        <span class="format-humantime" title="01.05.2003 17:30 UTC+5.5">
          11 days ago
         </span>
         ,
             translation,
-        <img alt="In English" src="//codeforces.com/codeforces.org/s/36365/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
+        <img alt="In English" src="//codeforces.com/codeforces.org/s/55945/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
         <span style="position:absolute;right:0;top:0.05em;margin-right:1em;display:inline;font-size:0.75em;">
          <div style="margin-top:0.25em;">
          </div>
@@ -4726,7 +4725,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
         </p>
        </div>
        <div style="font-size: 1.1rem;line-height: 1.1rem;padding-bottom: 0.5em;">
-        <img src="//codeforces.com/codeforces.org/s/36365/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/>
+        <img src="//codeforces.com/codeforces.org/s/55945/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/>
         <span style="padding: 0 0.35em;">
          Announcement of
          <a class="notice" href="/contest/2036" style="text-decoration: none;">
@@ -4757,7 +4756,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-up-136392" href="#">
-            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
+            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
            </a>
           </li>
           <li style="line-height: 1.6em;">
@@ -4767,7 +4766,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
           </li>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-down-136392" href="#">
-            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
+            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
            </a>
           </li>
          </ul>
@@ -4778,21 +4777,21 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li>
            <a href="/profile/m3tr0">
-            <img alt="Author" src="//codeforces.com/codeforces.org/s/36365/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
+            <img alt="Author" src="//codeforces.com/codeforces.org/s/55945/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
            </a>
            <a href="/profile/m3tr0">
             m3tr0
            </a>
           </li>
           <li>
-           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/36365/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
-           <span class="format-humantime" title="01.05.2003 12:30 UTC+5.5">
+           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/55945/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
+           <span class="format-humantime" title="01.05.2003 17:30 UTC+5.5">
             11 days ago
            </span>
           </li>
           <li>
            <a href="/blog/entry/135766#comments">
-            <img alt="Comments" src="//codeforces.com/codeforces.org/s/36365/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
+            <img alt="Comments" src="//codeforces.com/codeforces.org/s/55945/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
            </a>
            <a href="/blog/entry/135766#comments">
             332
@@ -4840,11 +4839,11 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          history
         </a>
         ,
-        <span class="format-humantime" title="22.05.2003 12:30 UTC+5.5">
+        <span class="format-humantime" title="22.05.2003 17:30 UTC+5.5">
          3 weeks ago
         </span>
         ,
-        <img alt="In English" src="//codeforces.com/codeforces.org/s/36365/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
+        <img alt="In English" src="//codeforces.com/codeforces.org/s/55945/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
         <span style="position:absolute;right:0;top:0.05em;margin-right:1em;display:inline;font-size:0.75em;">
          <div style="margin-top:0.25em;">
          </div>
@@ -4862,7 +4861,25 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
             </span>
            </span>
           </span>
-          <span class="MathJax MathJax_Processing" id="MathJax-Element-6-Frame" style="" tabindex="0">
+          <span class="MathJax MathJax_Processed" id="MathJax-Element-6-Frame" style="" tabindex="0">
+           <nobr>
+            <span class="math" id="MathJax-Span-42">
+             <span style="display: inline-block; position: relative; width: 0em; height: 0px; font-size: 120%;">
+              <span style="position: absolute;">
+               <span class="mrow" id="MathJax-Span-43">
+                <span style="display: inline-block; position: relative; width: 100%; height: 0px;">
+                 <span style="position: absolute; clip: rect(3.81em, 1000em, 4.167em, -1000em); top: -3.988em; left: 0em;">
+                  <span class="mspace" id="MathJax-Span-44" style="height: 0em; vertical-align: 0em; width: 0em; display: inline-block; overflow: hidden;">
+                  </span>
+                  <span style="display: inline-block; width: 0px; height: 3.988em;">
+                  </span>
+                 </span>
+                </span>
+               </span>
+              </span>
+             </span>
+            </span>
+           </nobr>
           </span>
           <script id="MathJax-Element-6" type="math/tex">
            \newline
@@ -5182,7 +5199,25 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
             </span>
            </span>
           </span>
-          <span class="MathJax MathJax_Processing" id="MathJax-Element-7-Frame" tabindex="0">
+          <span class="MathJax MathJax_Processed" id="MathJax-Element-7-Frame" style="" tabindex="0">
+           <nobr>
+            <span class="math" id="MathJax-Span-45">
+             <span style="display: inline-block; position: relative; width: 0em; height: 0px; font-size: 120%;">
+              <span style="position: absolute;">
+               <span class="mrow" id="MathJax-Span-46">
+                <span style="display: inline-block; position: relative; width: 100%; height: 0px;">
+                 <span style="position: absolute; clip: rect(3.81em, 1000em, 4.167em, -1000em); top: -3.988em; left: 0em;">
+                  <span class="mspace" id="MathJax-Span-47" style="height: 0em; vertical-align: 0em; width: 0em; display: inline-block; overflow: hidden;">
+                  </span>
+                  <span style="display: inline-block; width: 0px; height: 3.988em;">
+                  </span>
+                 </span>
+                </span>
+               </span>
+              </span>
+             </span>
+            </span>
+           </nobr>
           </span>
           <script id="MathJax-Element-7" type="math/tex">
            \newline
@@ -5227,7 +5262,50 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
             </span>
            </span>
           </span>
-          <span class="MathJax MathJax_Processing" id="MathJax-Element-8-Frame" tabindex="0">
+          <span class="MathJax MathJax_Processed" id="MathJax-Element-8-Frame" style="" tabindex="0">
+           <nobr>
+            <span class="math" id="MathJax-Span-48">
+             <span style="display: inline-block; position: relative; width: 0em; height: 0px; font-size: 120%;">
+              <span style="position: absolute;">
+               <span class="mrow" id="MathJax-Span-49">
+                <span class="mn" id="MathJax-Span-50" style="font-family: MathJax_Main;">
+                 500
+                </span>
+                <span class="mo" id="MathJax-Span-51" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 −
+                </span>
+                <span class="mn" id="MathJax-Span-52" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 750
+                </span>
+                <span class="mo" id="MathJax-Span-53" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 −
+                </span>
+                <span class="mn" id="MathJax-Span-54" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 1250
+                </span>
+                <span class="mo" id="MathJax-Span-55" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 −
+                </span>
+                <span class="mn" id="MathJax-Span-56" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 1750
+                </span>
+                <span class="mo" id="MathJax-Span-57" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 −
+                </span>
+                <span class="mn" id="MathJax-Span-58" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 2250
+                </span>
+                <span class="mo" id="MathJax-Span-59" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 −
+                </span>
+                <span class="mn" id="MathJax-Span-60" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 3000
+                </span>
+               </span>
+              </span>
+             </span>
+            </span>
+           </nobr>
           </span>
           <script id="MathJax-Element-8" type="math/tex">
            500 - 750 - 1250 - 1750 - 2250 - 3000
@@ -5460,7 +5538,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
         </p>
        </div>
        <div style="font-size: 1.1rem;line-height: 1.1rem;padding-bottom: 0.5em;">
-        <img src="//codeforces.com/codeforces.org/s/36365/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/>
+        <img src="//codeforces.com/codeforces.org/s/55945/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/>
         <span style="padding: 0 0.35em;">
          Announcement of
          <a class="notice" href="/contest/2032" style="text-decoration: none;">
@@ -5487,7 +5565,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
     });
        </script>
        <div style="font-size: 1.1rem;line-height: 11px;">
-        <img alt="Tags" src="//codeforces.com/codeforces.org/s/36365/images/blog/tags.png" style="vertical-align: middle;" title="Tags"/>
+        <img alt="Tags" src="//codeforces.com/codeforces.org/s/55945/images/blog/tags.png" style="vertical-align: middle;" title="Tags"/>
         <span style="padding: 0 0.35em;">
          <a class="tag notice" href="/search?query=codeforces" style="text-decoration: none;">
           codeforces
@@ -5529,7 +5607,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-up-136007" href="#">
-            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
+            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
            </a>
           </li>
           <li style="line-height: 1.6em;">
@@ -5539,7 +5617,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
           </li>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-down-136007" href="#">
-            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
+            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
            </a>
           </li>
          </ul>
@@ -5550,21 +5628,21 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li>
            <a href="/profile/Sagita_Phoenix">
-            <img alt="Author" src="//codeforces.com/codeforces.org/s/36365/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
+            <img alt="Author" src="//codeforces.com/codeforces.org/s/55945/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
            </a>
            <a href="/profile/Sagita_Phoenix">
             Sagita_Phoenix
            </a>
           </li>
           <li>
-           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/36365/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
-           <span class="format-humantime" title="22.05.2003 12:30 UTC+5.5">
+           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/55945/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
+           <span class="format-humantime" title="22.05.2003 17:30 UTC+5.5">
             3 weeks ago
            </span>
           </li>
           <li>
            <a href="/blog/entry/135381#comments">
-            <img alt="Comments" src="//codeforces.com/codeforces.org/s/36365/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
+            <img alt="Comments" src="//codeforces.com/codeforces.org/s/55945/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
            </a>
            <a href="/blog/entry/135381#comments">
             219
@@ -5612,12 +5690,12 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          history
         </a>
         ,
-        <span class="format-humantime" title="27.05.2003 12:30 UTC+5.5">
+        <span class="format-humantime" title="27.05.2003 17:30 UTC+5.5">
          2 weeks ago
         </span>
         ,
             translation,
-        <img alt="In English" src="//codeforces.com/codeforces.org/s/36365/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
+        <img alt="In English" src="//codeforces.com/codeforces.org/s/55945/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
         <span style="position:absolute;right:0;top:0.05em;margin-right:1em;display:inline;font-size:0.75em;">
          <div style="margin-top:0.25em;">
          </div>
@@ -5741,7 +5819,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
         </p>
        </div>
        <div style="font-size: 1.1rem;line-height: 1.1rem;padding-bottom: 0.5em;">
-        <img src="//codeforces.com/codeforces.org/s/36365/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/>
+        <img src="//codeforces.com/codeforces.org/s/55945/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/>
         <span style="padding: 0 0.35em;">
          Announcement of
          <a class="notice" href="/contest/2026" style="text-decoration: none;">
@@ -5772,7 +5850,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-up-136214" href="#">
-            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
+            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
            </a>
           </li>
           <li style="line-height: 1.6em;">
@@ -5782,7 +5860,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
           </li>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-down-136214" href="#">
-            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
+            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
            </a>
           </li>
          </ul>
@@ -5793,21 +5871,21 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li>
            <a href="/profile/awoo">
-            <img alt="Author" src="//codeforces.com/codeforces.org/s/36365/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
+            <img alt="Author" src="//codeforces.com/codeforces.org/s/55945/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
            </a>
            <a href="/profile/awoo">
             awoo
            </a>
           </li>
           <li>
-           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/36365/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
-           <span class="format-humantime" title="27.05.2003 12:30 UTC+5.5">
+           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/55945/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
+           <span class="format-humantime" title="27.05.2003 17:30 UTC+5.5">
             2 weeks ago
            </span>
           </li>
           <li>
            <a href="/blog/entry/135588#comments">
-            <img alt="Comments" src="//codeforces.com/codeforces.org/s/36365/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
+            <img alt="Comments" src="//codeforces.com/codeforces.org/s/55945/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
            </a>
            <a href="/blog/entry/135588#comments">
             258
@@ -5851,11 +5929,11 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          Hori
         </a>
         ,
-        <span class="format-humantime" title="04.05.2003 12:30 UTC+5.5">
+        <span class="format-humantime" title="04.05.2003 17:30 UTC+5.5">
          6 weeks ago
         </span>
         ,
-        <img alt="In English" src="//codeforces.com/codeforces.org/s/36365/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
+        <img alt="In English" src="//codeforces.com/codeforces.org/s/55945/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
         <span style="position:absolute;right:0;top:0.05em;margin-right:1em;display:inline;font-size:0.75em;">
          <div style="margin-top:0.25em;">
          </div>
@@ -6297,7 +6375,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
         </p>
        </div>
        <div style="font-size: 1.1rem;line-height: 1.1rem;padding-bottom: 0.5em;">
-        <img src="//codeforces.com/codeforces.org/s/36365/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/>
+        <img src="//codeforces.com/codeforces.org/s/55945/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/>
         <span style="padding: 0 0.35em;">
          Announcement of
          <a class="notice" href="/contest/2035" style="text-decoration: none;">
@@ -6328,7 +6406,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-up-135347" href="#">
-            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
+            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
            </a>
           </li>
           <li style="line-height: 1.6em;">
@@ -6338,7 +6416,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
           </li>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-down-135347" href="#">
-            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
+            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
            </a>
           </li>
          </ul>
@@ -6349,21 +6427,21 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li>
            <a href="/profile/Hori">
-            <img alt="Author" src="//codeforces.com/codeforces.org/s/36365/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
+            <img alt="Author" src="//codeforces.com/codeforces.org/s/55945/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
            </a>
            <a href="/profile/Hori">
             Hori
            </a>
           </li>
           <li>
-           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/36365/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
-           <span class="format-humantime" title="04.05.2003 12:30 UTC+5.5">
+           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/55945/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
+           <span class="format-humantime" title="04.05.2003 17:30 UTC+5.5">
             6 weeks ago
            </span>
           </li>
           <li>
            <a href="/blog/entry/134721#comments">
-            <img alt="Comments" src="//codeforces.com/codeforces.org/s/36365/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
+            <img alt="Comments" src="//codeforces.com/codeforces.org/s/55945/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
            </a>
            <a href="/blog/entry/134721#comments">
             186
@@ -6411,11 +6489,11 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          history
         </a>
         ,
-        <span class="format-humantime" title="20.05.2003 12:30 UTC+5.5">
+        <span class="format-humantime" title="20.05.2003 17:30 UTC+5.5">
          3 weeks ago
         </span>
         ,
-        <img alt="In English" src="//codeforces.com/codeforces.org/s/36365/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
+        <img alt="In English" src="//codeforces.com/codeforces.org/s/55945/images/flags/24/gb.png" style="position: relative;top: 5px;" title="In English"/>
         <span style="position:absolute;right:0;top:0.05em;margin-right:1em;display:inline;font-size:0.75em;">
          <div style="margin-top:0.25em;">
          </div>
@@ -6669,7 +6747,68 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
             </span>
            </span>
           </span>
-          <span class="MathJax MathJax_Processing" id="MathJax-Element-9-Frame" tabindex="0">
+          <span class="MathJax MathJax_Processed" id="MathJax-Element-9-Frame" style="" tabindex="0">
+           <nobr>
+            <span class="math" id="MathJax-Span-61">
+             <span style="display: inline-block; position: relative; width: 0em; height: 0px; font-size: 120%;">
+              <span style="position: absolute;">
+               <span class="mrow" id="MathJax-Span-62">
+                <span class="mn" id="MathJax-Span-63" style="font-family: MathJax_Main;">
+                 500
+                </span>
+                <span class="mo" id="MathJax-Span-64" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 −
+                </span>
+                <span class="mn" id="MathJax-Span-65" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 1000
+                </span>
+                <span class="mo" id="MathJax-Span-66" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 −
+                </span>
+                <span class="mn" id="MathJax-Span-67" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 1250
+                </span>
+                <span class="mo" id="MathJax-Span-68" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 −
+                </span>
+                <span class="mo" id="MathJax-Span-69" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 (
+                </span>
+                <span class="mn" id="MathJax-Span-70" style="font-family: MathJax_Main;">
+                 1250
+                </span>
+                <span class="mo" id="MathJax-Span-71" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 +
+                </span>
+                <span class="mn" id="MathJax-Span-72" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 1000
+                </span>
+                <span class="mo" id="MathJax-Span-73" style="font-family: MathJax_Main;">
+                 )
+                </span>
+                <span class="mo" id="MathJax-Span-74" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 −
+                </span>
+                <span class="mo" id="MathJax-Span-75" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 (
+                </span>
+                <span class="mn" id="MathJax-Span-76" style="font-family: MathJax_Main;">
+                 2000
+                </span>
+                <span class="mo" id="MathJax-Span-77" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 +
+                </span>
+                <span class="mn" id="MathJax-Span-78" style="font-family: MathJax_Main; padding-left: 0.222em;">
+                 1000
+                </span>
+                <span class="mo" id="MathJax-Span-79" style="font-family: MathJax_Main;">
+                 )
+                </span>
+               </span>
+              </span>
+             </span>
+            </span>
+           </nobr>
           </span>
           <script id="MathJax-Element-9" type="math/tex">
            500 - 1000 - 1250 - (1250 + 1000) - (2000 + 1000)
@@ -6837,7 +6976,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
         </p>
        </div>
        <div style="font-size: 1.1rem;line-height: 1.1rem;padding-bottom: 0.5em;">
-        <img src="//codeforces.com/codeforces.org/s/36365/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/>
+        <img src="//codeforces.com/codeforces.org/s/55945/images/icons/paperclip-16x16.png" style="vertical-align: middle;"/>
         <span style="padding: 0 0.35em;">
          Announcement of
          <a class="notice" href="/contest/2027" style="text-decoration: none;">
@@ -6868,7 +7007,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-up-135934" href="#">
-            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
+            <img alt="Vote: I like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/voteup.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I like it"/>
            </a>
           </li>
           <li style="line-height: 1.6em;">
@@ -6878,7 +7017,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
           </li>
           <li style="line-height: 1.6em;">
            <a class="topic-vote-down-135934" href="#">
-            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/36365/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
+            <img alt="Vote: I do not like it" src="//codeforces.com/codeforces.org/s/55945/images/actions/votedown.png" style="vertical-align:middle;position:relative;top:-0.2em" title="Vote: I do not like it"/>
            </a>
           </li>
          </ul>
@@ -6889,21 +7028,21 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
          <ul>
           <li>
            <a href="/profile/myst-6">
-            <img alt="Author" src="//codeforces.com/codeforces.org/s/36365/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
+            <img alt="Author" src="//codeforces.com/codeforces.org/s/55945/images/blog/user_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Author"/>
            </a>
            <a href="/profile/myst-6">
             myst-6
            </a>
           </li>
           <li>
-           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/36365/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
-           <span class="format-humantime" title="20.05.2003 12:30 UTC+5.5">
+           <img alt="Publication date" src="//codeforces.com/codeforces.org/s/55945/images/blog/date_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Publication date"/>
+           <span class="format-humantime" title="20.05.2003 17:30 UTC+5.5">
             3 weeks ago
            </span>
           </li>
           <li>
            <a href="/blog/entry/135308#comments">
-            <img alt="Comments" src="//codeforces.com/codeforces.org/s/36365/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
+            <img alt="Comments" src="//codeforces.com/codeforces.org/s/55945/images/blog/comments_16x16.png" style="vertical-align:middle;position:relative;top:-1px" title="Comments"/>
            </a>
            <a href="/blog/entry/135308#comments">
             216
@@ -7019,11 +7158,11 @@ $(document).bind('keydown', 'ctrl+right', function() {
      The only programming contests Web 2.0 platform
     </div>
     <div>
-     Server time: Nov/12/2024 11:07:36
+     Server time: Nov/12/2024 19:25:39
      <sup style="font-size:8px;" title="timezone offset">
       UTC+5.5
      </sup>
-     (l2).
+     (j2).
     </div>
     <div>
      Desktop version, switch to
@@ -7042,12 +7181,12 @@ $(document).bind('keydown', 'ctrl+right', function() {
     </div>
     <div class="footer-logo-div" style="left: 30px;">
      <a href="https://ton.org/">
-      <img alt="TON" src="//codeforces.com/codeforces.org/s/36365/images/ton-100x100.png" style="margin-right: 2em; width: 60px;" title="TON"/>
+      <img alt="TON" src="//codeforces.com/codeforces.org/s/55945/images/ton-100x100.png" style="margin-right: 2em; width: 60px;" title="TON"/>
      </a>
      <div class="sep">
      </div>
      <a class="itmo-logo" href="https://en.itmo.ru/en/">
-      <img alt="ITMO University" src="//codeforces.com/codeforces.org/s/36365/images/itmo_small_en-logo.png" style="width: 140px;" title="ITMO University"/>
+      <img alt="ITMO University" src="//codeforces.com/codeforces.org/s/55945/images/itmo_small_en-logo.png" style="width: 140px;" title="ITMO University"/>
      </a>
     </div>
    </div>
@@ -7114,9 +7253,9 @@ $(document).bind('keydown', 'ctrl+right', function() {
        <div style="position:absolute;right:0.25em;top:0.35em;">
         <span class="rowCount" style="padding:0;position:relative;bottom:2px;">
         </span>
-        <img class="closed" src="//codeforces.com/codeforces.org/s/36365/images/icons/control.png"/>
+        <img class="closed" src="//codeforces.com/codeforces.org/s/55945/images/icons/control.png"/>
         <span class="filter" style="display:none;">
-         <img class="opened" src="//codeforces.com/codeforces.org/s/36365/images/icons/control-270.png"/>
+         <img class="opened" src="//codeforces.com/codeforces.org/s/55945/images/icons/control-270.png"/>
          <input style="padding:0 0 0 20px;position:relative;bottom:2px;border:1px solid #aaa;height:17px;font-size:1.3rem;"/>
         </span>
        </div>
@@ -7278,7 +7417,7 @@ $(document).bind('keydown', 'ctrl+right', function() {
   </div>
   <script type="application/javascript">
    if ('serviceWorker' in navigator && 'fetch' in window && 'caches' in window) {
-            navigator.serviceWorker.register('/service-worker-36365.js')
+            navigator.serviceWorker.register('/service-worker-55945.js')
                 .then(function (registration) {
                     console.log('Service worker registered: ', registration);
                 })
@@ -7287,7 +7426,7 @@ $(document).bind('keydown', 'ctrl+right', function() {
                 });
         }
   </script>
-  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"8e142bcad85e85cc","version":"2024.10.5","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"token":"316c29dfa3804effb5a91c52a59b5bd0","b":1}' defer="" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015">
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"8e17055dea65321d","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2024.10.5","token":"316c29dfa3804effb5a91c52a59b5bd0"}' defer="" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015">
   </script>
   <div id="datepick-div" style="display: none;">
   </div>
@@ -7344,7 +7483,7 @@ $(document).bind('keydown', 'ctrl+right', function() {
   <div class="bottom-right jGrowl" id="jGrowl">
    <div class="jGrowl-notification">
    </div>
-   <div class="jGrowl-notification default" style="display: block; opacity: 0.789177;">
+   <div class="jGrowl-notification default" style="display: block;">
     <div class="close">
      ×
     </div>
