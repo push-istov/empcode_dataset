@@ -16,6 +16,9 @@ codetesturl = 'https://codeforces.com/contest/2018/submission/285418011'
 # username = "rythmtheif"
 # password = "anto!#$"
 
+username = "kadampushkar8@gmail.com"
+password = "ramenT-T3#8&!"
+
 cookies_file = "cookies.json"
 
 global_write_object = None
@@ -41,7 +44,7 @@ async def navtopage(url, browser, page):
         # await page.waitForNavigation()
         await page.waitForSelector('body', timeout=60000)
         content = await page.content()
-    except(TimeoutError):
+    except(TimeoutError, pyppeteer.errors.PageError):
         content = None
         raise TimeoutError
     return content
@@ -166,7 +169,7 @@ def restore_resume_data(current_handle):
             for row_data in resume_check:
                 if row_data["handle"] == current_handle:
                     last_object = row_data
-                    del row
+                    del row_data
             # last_object = resume_check[-1]
             # del resume_check[-1]
     except(FileNotFoundError, json.JSONDecodeError):
