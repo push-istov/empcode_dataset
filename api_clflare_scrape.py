@@ -8,12 +8,16 @@ import signal
 import sys
 import time
 import os
+import random
 
 loginurl = 'https://codeforces.com/enter'
 codetesturl = 'https://codeforces.com/contest/2018/submission/285418011'
 
-username = "rythmtheif"
-password = "anto!#$"
+# username = "rythmtheif"
+# password = "anto!#$"
+username = "kadampushkar8@gmail.com"
+password = "ramenT-T3#8&!"
+
 cookies_file = "cookies.json"
 
 global_write_object = None
@@ -260,7 +264,7 @@ async def main():
         print("Write complete")
         write_object = None
         current_handle = None
-        time.sleep(1)
+        time.sleep(random.uniform(0.5, 2.5))
 
     await browser.close()
     # prettifyandWrite(contents, 'op.txt')
